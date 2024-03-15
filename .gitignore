@@ -34,3 +34,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# 個人用 (backup or error)
+GoogleMap copy.tsx
+Map.tsx
